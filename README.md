@@ -4,7 +4,7 @@
 
 ### Just having fun with python
 
-##Games:
+## Games:
 1. Rock Paper Scissors
 2. BlackJack
 3. Higher Lower
