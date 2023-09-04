@@ -6,6 +6,6 @@
 
 ## Games:
 1. Rock Paper Scissors
-2. ![BlackJack](https://github.com/Aman-Shetty/Python-projects/blob/master/GAMES/BLACKJACK/main.py)
+2. [BlackJack](https://github.com/Aman-Shetty/Python-projects/blob/master/GAMES/BLACKJACK/main.py)
 3. Higher Lower
 4. Hangman
