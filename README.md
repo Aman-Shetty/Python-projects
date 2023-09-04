@@ -2,7 +2,7 @@
 **Python** is a _high-level_ language.
 Python is *dynamically typed* and *garbage-collected*. It supports multiple programming paradigms, including structured, object-oriented and functional programming. 
 
-![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png)
+![Python](https://e1.pxfuel.com/desktop-wallpaper/514/124/desktop-wallpaper-2048x2048-python-logo-ipad-air-backgrounds-and-python-code.jpg)
 
 We can use python to bulid different types of projects and games!
 Here are few projects i have built using python.
