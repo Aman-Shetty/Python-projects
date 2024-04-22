@@ -19,9 +19,6 @@ The Games i built using python.
 
 
 ## [BlackJack](https://github.com/Aman-Shetty/Python-projects/tree/master/GAMES/BLACKJACK)
-***Blackjack*** is a casino banking game. It is the most widely played casino banking game in the world. It uses decks of 52 cards and descends from a global family of casino banking games known as "twenty-one".Blackjack players do not compete against each other. The game is a comparing card game where each player competes against the dealer.
-![BlackJack.jpg](https://imageio.forbes.com/specials-images/dam/imageserve/1051931270/0x0.jpg?format=jpg&width=1200)
-
 Here are the basic rules of blackjack:
 
 **Objective:** The main goal of blackjack is to beat the dealer's hand without going over 21.
@@ -40,13 +37,6 @@ Here are the basic rules of blackjack:
 6. If the dealer busts, all remaining players win. If the dealer doesn't bust, the player with a hand value closer to 21 than the dealer's hand wins.
 7. In case of a tie between a player and the dealer (a "push"), the player's bet is returned, and no one wins or loses.
 
-**Blackjack (Natural 21):** If a player is dealt an Ace and a 10-value card (10, Jack, Queen, King) as their initial two cards, they have a "blackjack." This is the strongest hand and usually pays out at a higher rate than a standard win, often 3:2.
-
-**Insurance:** Players are offered insurance if the dealer's upcard is an Ace. Insurance is a side bet that pays 2:1 if the dealer has a blackjack. Players can choose to take insurance or decline it.
-
-**Splitting:** If a player is dealt two cards of the same rank (e.g., two 7s or two 8s), they can choose to "split" their hand into two separate hands, each with its own bet. The player then continues to play each hand independently.
-
-**Doubling Down:** After receiving their initial two cards, players may have the option to "double down," which means they can double their original bet in exchange for committing to stand after receiving one more card.
 
 ## [HANGMAN](https://github.com/Aman-Shetty/Python-projects/tree/master/GAMES/HANGMAN)
 Hangman is a guessing game for two or more players. One player thinks of a word, phrase, or sentence and the other(s) tries to guess it by suggesting letters or numbers within a certain number of guesses.
